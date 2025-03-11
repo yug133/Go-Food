@@ -18,4 +18,3 @@
 - **[Database, if applicable]:** (e.g., MySQL, MongoDB, etc.) for data persistence.
 - **Additional Libraries/Frameworks:** (e.g., Bootstrap for responsiveness, jQuery for simplified DOM manipulation, etc.)
 
-## Project Structure
